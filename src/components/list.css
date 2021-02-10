@@ -1,0 +1,18 @@
+.parent{
+    /* width: 50%; */
+    display: flex;
+padding-top: 2%
+}
+
+.comment-container{
+    padding-top: 30px;
+    margin-top: 2%;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    border-width: 1;
+    border-style: double;
+    border-radius: 5%;
+    max-width: 220px;
+  
+}
